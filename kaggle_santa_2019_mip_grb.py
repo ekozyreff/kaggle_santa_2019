@@ -153,7 +153,7 @@ m.update()
 
 # Set a time limit (optional)
                 
-m.setParam('TimeLimit', 1200.0)
+# m.setParam('TimeLimit', 3600.0)
 
 
 # Set MIP gap to zero (this is important, otherwise the optimization will stop earlier than desired)
